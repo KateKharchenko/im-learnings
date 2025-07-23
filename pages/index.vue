@@ -13,6 +13,11 @@
           <p>GSAP ScrollTrigger stack pinning animation demo</p>
           <span class="card-arrow">→</span>
         </NuxtLink>
+        <NuxtLink to="/before-after" class="nav-card">
+          <h3>Before After</h3>
+          <p>GSAP ScrollTrigger before after animation demo</p>
+          <span class="card-arrow">→</span>
+        </NuxtLink>
       </div>
     </nav>
   </div>
