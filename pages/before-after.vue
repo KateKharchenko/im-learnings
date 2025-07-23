@@ -55,6 +55,7 @@ onMounted(() => {
 <style scoped>
 .gallery {
   width: 100%;
+  max-width: 500px;
   aspect-ratio: 3/2;
   position: relative;
   border-radius: 20px;
